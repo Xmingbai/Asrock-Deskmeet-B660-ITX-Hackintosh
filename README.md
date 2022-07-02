@@ -22,7 +22,7 @@ CPU: i5-12490F
 
 
 
-# 完善程度
+# 完善程度 99.99%
 
 CPU 睿频正常 12490F性能相当于i9-10900
 
@@ -39,13 +39,14 @@ BIOS 设置参考：https://www.bilibili.com/read/cv12293964
 
 
 #相关截图
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/1.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/2.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/3.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/4.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/5.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/6.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/7.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/8.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/9.png)
-![](https://github.com/Xmingbai/Asrock-H670M-ITX-AX-Hackintosh/raw/main/10.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/1.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/2.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/3.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/4.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/5.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/6.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/7.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/8.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/9.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/10.png)
+
