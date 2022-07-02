@@ -25,7 +25,7 @@ CPU: i5-12490F
 
 网卡：BCM94360CS2+转接卡
 
-
+BIOS 设置参考：https://www.bilibili.com/read/cv12293964
 
 # 完善程度 99.99%
 
@@ -37,10 +37,11 @@ CPU 睿频正常 12490F 多核心性能相当于i9-10900 相对哇塞
 
 睡眠与唤醒正常，支持USB设备唤醒
 
-隔空投送、通用控制支持
+WiFi、蓝牙正常
+
+隔空投送接力、通用控制支持
 
 
-BIOS 设置参考：https://www.bilibili.com/read/cv12293964
 
 
 #相关截图
