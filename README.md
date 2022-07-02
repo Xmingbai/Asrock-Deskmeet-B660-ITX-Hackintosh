@@ -54,4 +54,6 @@ BIOS 设置参考：https://www.bilibili.com/read/cv12293964
 ![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/8.png)
 ![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/9.png)
 ![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/10.png)
-
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/11.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/12.png)
+![](https://github.com/Xmingbai/Asrock-Deskmeet-B660-ITX-Hackintosh/blob/main/13.png)
