@@ -1,5 +1,10 @@
 # Asrock-Deskmeet-B660-ITX-Hackintosh
 
+目前第一个引导版本：OC082
+
+支持macOS 10.15.x Catalina、11.x Big sur、12.x Monterey、 13 Ventura
+
+
 测评视频链接：https://www.bilibili.com/video/BV1cL4y1472u/
 
 淘宝链接：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23032779536.30.4e155c3eHEOYpr&id=667663517240
