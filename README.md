@@ -8,7 +8,7 @@
 
 测评视频链接：https://www.bilibili.com/video/BV17Y4y1E7UT
 
-淘宝链接：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23032779536.30.4e155c3eHEOYpr&id=667663517240
+淘宝链接：https://item.taobao.com/item.htm?spm=4114w.12575281.0.0.50111debrcpoJR&ft=t&id=678091990589
 
 # 本机配置清单
 
