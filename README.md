@@ -3,7 +3,7 @@
 目前第一个引导版本：OC082
 
 
-支持macOS 10.15.x Catalina、11.x Big sur、12.x Monterey、 13 Ventura
+支持macOS 10.15.x Catalina、11.x Big sur、12.x Monterey、 13 Ventura beta2
 
 
 测评视频链接：https://www.bilibili.com/video/BV17Y4y1E7UT
